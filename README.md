@@ -1,5 +1,5 @@
 # Blender-Shortcuts
-Keyboard shortcut listing of common commands used in Blender
+`Keyboard shortcut listing of common commands used in Blender`
 
 **View:**  
 * 1 - front view.  
